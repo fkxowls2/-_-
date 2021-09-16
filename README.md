@@ -1,4 +1,4 @@
-# Deep_Learning_Handcraft
+# TwoLayerNet_Handcraft
 ### 2층 신경망 날코딩과 텐서플로우 비교
 * 작성 참고자료: 밑바닥부터 시작하는 딥러닝(한빛미디어)
 * 데이터: fashion_mnist(훈련: 6만건, 테스트: 1만건)
